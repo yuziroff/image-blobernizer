@@ -2,7 +2,7 @@ let img;
 let paused = true;
 
 function preload() {
-  img = loadImage("./image.jpg");
+  img = loadImage("./yuziroff.png");
   img.loadPixels();
 }
 
